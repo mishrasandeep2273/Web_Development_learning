@@ -1,0 +1,47 @@
+{
+  "cats": {
+    "name": "cats",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1677545182067-26ac518ef64f?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0JTIwbWVvd2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "likes": 200,
+        "comments": 17
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1712111914166-28abdb7e3839?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 312,
+        "comments": 19
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1749043026504-231908a01b63?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 1065,
+        "comments": 200
+      }
+    ]
+  },
+
+  "dogs": {
+    "name": "dogs",
+    "followers": 75000,
+    "following": 8,
+    "posts": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-rTdT2WX-YerT0ldO_FyTb_NKUhhniDuZrrD5FNJlHA&s=10",
+        "likes": 500,
+        "comments": 25
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRwxb6OU1Os-hBUa9mn9AZIySYCWnrbJ1lK3_LNVKUw&s=10",
+        "likes": 725,
+        "comments": 42
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMKYq7ZwbLA7_4M3wuqGRFUjyUHlPFR__WtARVaeGvg&s=10",
+        "likes": 1200,
+        "comments": 87
+      }
+    ]
+  }
+}
